@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "title": "How to get stroage size",
+            "url": "https://codechacha.com/ko/get-free-and-total-size-of-volumes-in-android/",
+            "draft": "false"
+        },
+        {
+            "title": "Android Q, Scoped Storage",
+            "url": "https://codechacha.com/ko/android-q-scoped-storage/",
+            "draft": "false"
+        },
+        {
+            "title": "How to parse JSON in android",
+            "url": "https://codechacha.com/ko/how-to-parse-json-in-android/",
+            "draft": "true"
+        }
+    ]
+}
